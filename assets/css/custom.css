@@ -66,9 +66,15 @@
   margin-right: auto;
 }
 
-/* Align section headers with main title */
+
+/* Remove the left indent and line decoration on section headers */
 .page__content h2,
 .page__content h3 {
   margin-left: 0 !important;
   padding-left: 0 !important;
+}
+
+.page__content h2::before,
+.page__content h3::before {
+  content: none !important;   /* removes the decorative bar that creates the dent */
 }
