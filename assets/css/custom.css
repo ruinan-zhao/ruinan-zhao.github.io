@@ -12,17 +12,28 @@
 
 
 
-
-.masthead {
-  background-color: #f3f4f6;   /* light gray */
-  border-bottom: 1px solid #d1d5db;
+/* Remove the gray/white bar behind the nav */
+.masthead,
+.masthead .greedy-nav {
+  background: transparent !important;
+  box-shadow: none !important;
+  border: 0 !important;
 }
 
+/* Make nav text black and keep it readable */
 .masthead .site-title,
 .masthead .greedy-nav a {
-  color: #111827 !important;   /* almost black */
+  color: #111 !important;      /* black */
 }
 
+/* Show which page you're on (Home/Research/Teaching/CV) */
+.masthead .greedy-nav .active > a,
+.masthead .greedy-nav a[aria-current="page"] {
+  font-weight: 700;
+  border-bottom: 2px solid #111;   /* underline current page */
+}
+
+/* Optional: slightly darker hover */
 .masthead .greedy-nav a:hover {
-  color: #2563eb !important;   /* blue on hover */
+  color: #000 !important;
 }
