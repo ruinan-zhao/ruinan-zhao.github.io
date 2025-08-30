@@ -5,6 +5,8 @@ title: Home
 
 [Research](research.md) · [Teaching](teaching.md) · [CV](CV_Ruinan.pdf)
 
+Welcome!
+
 I am a PhD Candidate in Economics at the University of California, Riverside.  
 
 My research interests include labor economics, economics of education, applied microeconomics, and public policy.  
