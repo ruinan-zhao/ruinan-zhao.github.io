@@ -39,7 +39,19 @@
 }
 
 
-/* Make main content wider */
-.page__content {
-  max-width: 960px;   /* default ~740px */
+
+/* Wider text column = more words per line */
+.page__content > * {
+  max-width: 900px !important;     /* try 900–1000px */
+}
+
+/* Keep headings and lists aligned too */
+.page__content > h1,
+.page__content > h2,
+.page__content > h3,
+.page__content > p,
+.page__content > ul,
+.page__content > ol,
+.page__content > div {
+  max-width: 900px !important;
 }
