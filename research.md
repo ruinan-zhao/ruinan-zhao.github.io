@@ -4,6 +4,9 @@ title: Research
 permalink: /research/
 ---
 
+
+{% include nav.md %}
+
 ## Publication
 **The Impact of Granting Undocumented Immigrants Driver’s Licenses on Fatal Crashes**  
 *Journal of Policy Analysis and Management, forthcoming.*
