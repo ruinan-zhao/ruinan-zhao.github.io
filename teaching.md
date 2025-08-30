@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-<div style="font-size:15px;">
+
 
 ## Instructor 
 - Econ 003: Introduction to Microeconomics         — Summer 2025  
