@@ -1,11 +1,48 @@
 title: "Ruinan Zhao"
+name: "Ruinan Zhao"
+email: "ruinan.zhao@email.ucr.edu"
+description: "Economics PhD Candidate at UC Riverside — Labor, Education, Applied Micro, Public Policy."
 url: "https://ruinan-zhao.github.io"
 baseurl: ""
 
-# Use a built-in theme that GitHub Pages always supports
-theme: jekyll-theme-minimal
+# Use Minimal Mistakes (AcademicPages is built on it)
+remote_theme: "mmistakes/minimal-mistakes"
 
+# Plugins allowed by GitHub Pages
+plugins:
+  - jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-include-cache
 
-markdown: kramdown
-highlighter: rouge
-permalink: /:title/
+# Skin (color palette)
+minimal_mistakes_skin: "default" # options: air, aqua, dark, dusk, neon, sunrise, etc.
+
+# Author sidebar
+author:
+  name: "Ruinan Zhao"
+  avatar: "/images/headshot.jpg"
+  bio: "PhD Candidate in Economics at UC Riverside. On the job market 2025–2026. Research in labor, education, applied micro, and public policy."
+  location: "UC Riverside"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:ruinan.zhao@email.ucr.edu"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/ruinan-zhao"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/your-profile"
+
+# Defaults so pages get the sidebar
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
