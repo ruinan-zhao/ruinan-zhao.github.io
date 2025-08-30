@@ -5,8 +5,6 @@ permalink: /teaching/
 ---
 
 
-{% include nav.md %}
-
 ## Instructor 
 - Econ 003: Introduction to Microeconomics — Summer 2025  
 - Econ 102: Intermediate Microeconomics — Summer 2024  
