@@ -41,5 +41,5 @@
 
 /* Make main content wider */
 .page__content {
-  max-width: 900px;   /* default ~740px */
+  max-width: 960px;   /* default ~740px */
 }
