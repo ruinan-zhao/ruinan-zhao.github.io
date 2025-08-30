@@ -5,7 +5,6 @@ layout: single
 author_profile: true
 ---
 
-<div style="font-size:15px;">
 
 
 ## Publication
