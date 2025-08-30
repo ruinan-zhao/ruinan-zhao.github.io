@@ -1,9 +1,9 @@
 ---
-layout: site
-title: Home
+layout: home
+title: "Home"
+author_profile: true
 ---
 
-[Research](research.md) · [Teaching](teaching.md) · [CV](CV_Ruinan.pdf)
 
 Welcome!
 
