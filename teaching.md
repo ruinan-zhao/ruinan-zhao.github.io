@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: site
 title: Teaching
 permalink: /teaching/
 ---
