@@ -8,3 +8,19 @@
   font-size: 18px;          /* balanced size */
   line-height: 1.6;
 }
+
+
+.masthead {
+  background-color: #1e3a8a;   /* dark blue */
+}
+
+/* Navigation links */
+.masthead .site-title,
+.masthead .greedy-nav a {
+  color: #ffffff !important;   /* white text */
+}
+
+/* Hover effect */
+.masthead .greedy-nav a:hover {
+  color: #cbd5e1 !important;   /* light gray */
+}
