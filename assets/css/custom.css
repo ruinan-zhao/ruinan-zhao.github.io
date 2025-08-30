@@ -66,15 +66,20 @@
   margin-right: auto;
 }
 
-
-/* Remove the left indent and line decoration on section headers */
-.page__content h2,
-.page__content h3 {
+/* Make section headers flush-left (no dent) */
+.page .page__inner-wrap .page__content h2,
+.page .page__inner-wrap .page__content h3 {
   margin-left: 0 !important;
   padding-left: 0 !important;
+  position: static !important;   /* prevents offset tricks */
+  border-left: none !important;  /* just in case */
 }
 
-.page__content h2::before,
-.page__content h3::before {
-  content: none !important;   /* removes the decorative bar that creates the dent */
+/* Remove the decorative bar that causes the indent */
+.page .page__inner-wrap .page__content h2:before,
+.page .page__inner-wrap .page__content h2::before,
+.page .page__inner-wrap .page__content h3:before,
+.page .page__inner-wrap .page__content h3::before {
+  content: none !important;
+  display: none !important;
 }
