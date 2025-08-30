@@ -1,0 +1,11 @@
+title: "Ruinan Zhao"
+description: "Economics PhD Candidate at UC Riverside — Labor, Education, Applied Micro, Public Policy."
+url: "https://ruinan-zhao.github.io"
+baseurl: ""
+
+# Use a built-in theme that GitHub Pages always supports
+theme: jekyll-theme-cayman
+
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
