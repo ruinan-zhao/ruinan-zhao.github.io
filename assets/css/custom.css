@@ -55,3 +55,16 @@
 .page__content > div {
   max-width: 900px !important;
 }
+
+
+/* Override overall content container width */
+.page,
+.page__content,
+.page__content > * {
+  max-width: 1000px !important;   /* adjust: 900–1000px looks good */
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
