@@ -1,3 +1,6 @@
+## Teaching
+
+
 
 ## Instructor 
 - Econ 003: Introduction to Microeconomics — Summer 2025  
