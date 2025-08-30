@@ -7,6 +7,7 @@ baseurl: ""
 
 # Use Minimal Mistakes (AcademicPages is built on it)
 remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "air" 
 
 # Plugins allowed by GitHub Pages
 plugins:
@@ -46,6 +47,19 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      classes: wide   # or "full" if you want edge-to-edge
+
+
 
 sass:
   style: compressed
