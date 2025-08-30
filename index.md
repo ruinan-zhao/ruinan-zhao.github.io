@@ -5,7 +5,7 @@ title: Home
 
 # Ruinan Zhao
 
-[Research](/research/) · [Teaching](/teaching/) · [CV](CV_Ruinan.pdf)
+[Research](research.md) · [Teaching](/teaching/) · [CV](CV_Ruinan.pdf)
 
 # Welcome!
 
