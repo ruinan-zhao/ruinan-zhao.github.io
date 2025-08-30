@@ -1,6 +1,8 @@
-
-## Research 
-
+---
+layout: default
+title: Research
+permalink: /research/
+---
 
 ## Publication
 **The Impact of Granting Undocumented Immigrants Driver’s Licenses on Fatal Crashes**  
