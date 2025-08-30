@@ -3,7 +3,8 @@ url: "https://ruinan-zhao.github.io"
 baseurl: ""
 
 # Use a built-in theme that GitHub Pages always supports
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
+
 
 markdown: kramdown
 highlighter: rouge
