@@ -6,7 +6,7 @@ author_profile: true
 
 Welcome!
 
-I am a PhD Candidate in Economics at the University of California, Riverside.  
+I am a Ph.D. Candidate in Economics at the University of California, Riverside.  
 
 My research interests include labor economics, economics of education, applied microeconomics, and public policy.  
 
