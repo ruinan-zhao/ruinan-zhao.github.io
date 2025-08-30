@@ -37,3 +37,9 @@
 .masthead .greedy-nav a:hover {
   color: #000 !important;
 }
+
+
+/* Make main content wider */
+.page__content {
+  max-width: 900px;   /* default ~740px */
+}
