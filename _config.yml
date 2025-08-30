@@ -46,3 +46,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+sass:
+  style: compressed
+include:
+  - assets/css      
