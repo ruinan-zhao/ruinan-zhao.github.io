@@ -83,3 +83,21 @@
   content: none !important;
   display: none !important;
 }
+
+
+/* Add spacing around em dashes inside teaching lists */
+.page__content li {
+  line-height: 1.6;   /* a little extra breathing room */
+}
+
+.page__content li::before {
+  margin-right: 0.3em;
+}
+
+.page__content li {
+  word-spacing: 0.15em;  /* slightly increases space between words, affects dash too */
+}
+
+
+
+
