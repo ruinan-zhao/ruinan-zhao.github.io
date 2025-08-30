@@ -1,0 +1,10 @@
+/* Darker top navigation links */
+.nav__items a {
+  color: #222 !important;   /* darker grey/black */
+}
+
+/* Slightly smaller content font */
+.page__content {
+  font-size: 15px;          /* default is ~17px */
+  line-height: 1.6;
+}
