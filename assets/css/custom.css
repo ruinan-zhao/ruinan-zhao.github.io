@@ -3,8 +3,8 @@
   color: #222 !important;   /* darker grey/black */
 }
 
-/* Slightly smaller content font */
+/* Slightly smaller (but not too small) content font */
 .page__content {
-  font-size: 15px;          /* default is ~17px */
+  font-size: 16px;          /* balanced size */
   line-height: 1.6;
 }
