@@ -9,18 +9,16 @@
   line-height: 1.6;
 }
 
-
 .masthead {
-  background-color: #1e3a8a;   /* dark blue */
+  background-color: #f3f4f6;   /* light gray */
+  border-bottom: 1px solid #d1d5db;
 }
 
-/* Navigation links */
 .masthead .site-title,
 .masthead .greedy-nav a {
-  color: #ffffff !important;   /* white text */
+  color: #111827 !important;   /* almost black */
 }
 
-/* Hover effect */
 .masthead .greedy-nav a:hover {
-  color: #cbd5e1 !important;   /* light gray */
+  color: #2563eb !important;   /* blue on hover */
 }
