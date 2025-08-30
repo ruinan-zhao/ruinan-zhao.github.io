@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-
+[Research](research.md) · [Teaching](teaching.md) · [CV](CV_Ruinan.pdf)
 
 I am a PhD Candidate in Economics at the University of California, Riverside.  
 
