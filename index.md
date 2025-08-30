@@ -3,15 +3,11 @@ layout: default
 title: Home
 ---
 
-# Ruinan Zhao
-
-[Research](research.md) · [Teaching](teaching.md) · [CV](CV_Ruinan.pdf)
-
-# Welcome!
+{% include nav.md %}
 
 I am a PhD Candidate in Economics at the University of California, Riverside.  
 
-My research interests include **labor economics**, **economics of education**, **applied microeconomics**, and **public policy**.  
+My research interests include labor economics, economics of education, applied microeconomics, and public policy.  
 
 I will be on the job market in **2025–2026**.
 
