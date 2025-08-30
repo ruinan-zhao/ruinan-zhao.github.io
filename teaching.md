@@ -1,9 +1,9 @@
 ---
-layout: site
-title: Teaching
-permalink: /teaching/
+title: "Research"
+permalink: /research/
+layout: single
+author_profile: true
 ---
-
 
 ## Instructor 
 - Econ 003: Introduction to Microeconomics — Summer 2025  
