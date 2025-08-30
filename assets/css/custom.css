@@ -66,8 +66,9 @@
   margin-right: auto;
 }
 
-/* Reduce top margin on page titles */
-.page__content h1 {
-  margin-top: 0.5em;   /* default is ~1.5–2em */
+/* Align section headers with main title */
+.page__content h2,
+.page__content h3 {
+  margin-left: 0 !important;
+  padding-left: 0 !important;
 }
-
