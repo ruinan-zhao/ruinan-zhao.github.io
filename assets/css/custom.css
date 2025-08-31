@@ -98,6 +98,14 @@
   word-spacing: 0.15em;  /* slightly increases space between words, affects dash too */
 }
 
+/* Make top-level page titles (Research, Teaching, etc.) smaller */
+.page__content h1 {
+  font-size: 1.8rem !important;  /* default ~2.25rem */
+}
 
+/* Make secondary section headers (Publication, Job Market Paper, etc.) smaller */
+.page__content h2 {
+  font-size: 1.4rem !important;  /* default ~1.6rem */
+}
 
 
