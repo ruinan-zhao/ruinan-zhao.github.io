@@ -112,3 +112,15 @@
   margin-top: 1.25em;
   margin-bottom: 0.5em;
 }
+
+
+
+
+/* Center main page titles */
+.page__content h1 {
+  text-align: center;
+}
+
+
+
+
