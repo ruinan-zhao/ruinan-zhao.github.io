@@ -118,13 +118,14 @@
   font-size: 0.8rem !important;   /* default is ~1rem */
 }
 
-/* Remove left indent from page titles */
+/* Force page titles (h1) like Research/Teaching to be fully flush left */
 .page .page__title {
   margin-left: 0 !important;
   padding-left: 0 !important;
+  border-left: none !important;
 }
 
-.page .page__inner-wrap {
-  margin-left: 0 !important;
-  padding-left: 0 !important;
+.page .page__title::before {
+  content: none !important;
+  display: none !important;
 }
