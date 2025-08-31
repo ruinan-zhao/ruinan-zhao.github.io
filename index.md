@@ -12,4 +12,4 @@ I also work as a Research Assistant at the [Presley Center of Crime & Justice St
 
 I will be on the job market in **2025–2026**.
 
-📧 Email: [ruinan.zhao@email.ucr.edu](mailto:ruinan.zhao@email.ucr.edu)
+<i class="fas fa-envelope"></i> Email: [ruinan.zhao@email.ucr.edu](mailto:ruinan.zhao@email.ucr.edu)
