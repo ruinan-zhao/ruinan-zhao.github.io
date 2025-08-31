@@ -113,7 +113,10 @@
   margin-bottom: 0.5em;
 }
 
-
+/* Make top navigation links slightly smaller */
+.masthead .greedy-nav a {
+  font-size: 0.9rem !important;   /* default is ~1rem */
+}
 
 
 
