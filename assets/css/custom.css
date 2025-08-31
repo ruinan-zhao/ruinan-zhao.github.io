@@ -118,5 +118,9 @@
   font-size: 0.8rem !important;   /* default is ~1rem */
 }
 
-
+/* Remove left indent from page titles */
+.page .page__title {
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+}
 
