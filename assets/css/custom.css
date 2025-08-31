@@ -115,7 +115,7 @@
 
 /* Make top navigation links slightly smaller */
 .masthead .greedy-nav a {
-  font-size: 0.9rem !important;   /* default is ~1rem */
+  font-size: 0.8rem !important;   /* default is ~1rem */
 }
 
 
