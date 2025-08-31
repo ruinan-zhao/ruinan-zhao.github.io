@@ -129,3 +129,8 @@
   content: none !important;
   display: none !important;
 }
+
+.page .page__inner-wrap {
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+}
