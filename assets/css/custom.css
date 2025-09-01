@@ -118,36 +118,30 @@
   font-size: 0.8rem !important;   /* default is ~1rem */
 }
 
-/* Force page titles (Research, Teaching, CV) to align flush with content */
-.page .page__inner-wrap {
-  padding-left: 0 !important;
-  margin-left: 0 !important;
-}
-
-.page .page__title {
-  padding-left: 0 !important;
-  margin-left: 0 !important;
-  border-left: none !important;
-}
-
-.page .page__title::before {
-  content: none !important;
-  display: none !important;
-}
-
-
-/* Make the title header and the content share the same width/alignment */
-.page .page__inner-wrap > .page__header,
+/* 1) Make the header block and content share the same left edge */
+.page .page__inner-wrap > header,
 .page .page__inner-wrap > .page__content {
-  max-width: 900px !important;   /* use your preferred width: 900–1000px */
+  max-width: 900px !important;    /* use your width (900–1000px) */
   margin-left: auto !important;
   margin-right: auto !important;
   padding-left: 0 !important;
   padding-right: 0 !important;
 }
 
-/* Remove any decorative nudge from the title itself */
-.page .page__title::before {
+/* 2) Kill the decorative left bar/offset on the title itself */
+.page .page__inner-wrap > header .page__title {
+  padding-left: 0 !important;
+  margin-left: 0 !important;
+  border-left: none !important;
+}
+.page .page__inner-wrap > header .page__title::before {
   content: none !important;
   display: none !important;
+}
+
+/* 3) (Fallback) tiny visual nudge if your header still sits 2–4px in */
+@media (min-width: 768px) {
+  .page .page__inner-wrap > header .page__title {
+    transform: translateX(-3px);  /* adjust -1 to -5px until it lines up perfectly */
+  }
 }
