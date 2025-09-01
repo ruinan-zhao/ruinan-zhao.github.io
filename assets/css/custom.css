@@ -134,3 +134,20 @@
   content: none !important;
   display: none !important;
 }
+
+
+/* Make the title header and the content share the same width/alignment */
+.page .page__inner-wrap > .page__header,
+.page .page__inner-wrap > .page__content {
+  max-width: 900px !important;   /* use your preferred width: 900–1000px */
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+/* Remove any decorative nudge from the title itself */
+.page .page__title::before {
+  content: none !important;
+  display: none !important;
+}
