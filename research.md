@@ -1,13 +1,13 @@
 ---
 layout: single
-title: ""               # disables the theme’s title header
-header: false           # disables the page__header wrapper
+title: ""                 # turn OFF theme-generated title/header
+header: false
 permalink: /research/
 author_profile: true
-classes: wide
+classes: wide noindent    # add a helper class for clean overrides
 ---
 
-# Research   <!-- manual title, will align with content -->
+<h1 class="manual-title">Research</h1>
 
 ## Publication
 **The Impact of Granting Undocumented Immigrants Driver’s Licenses on Fatal Crashes**  
