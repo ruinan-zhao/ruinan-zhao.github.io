@@ -137,17 +137,13 @@
 .noindent .page__header, 
 .noindent .page__title { display: none !important; }
 
-/* Make the manual page title bigger (override theme sizes) */
-.page .page__content h1.manual-title {
-  font-size: 2.0rem !important;   /* try 2.1–2.4rem */
+
+/* Style for manual page titles */
+.page__content h1.manual-title {
+  margin: 0 0 0.75em 0 !important;
+  padding: 0 !important;
+  font-size: 2.2rem !important;   /* try 2.1–2.4rem until you like it */
   line-height: 1.2 !important;
   font-weight: 700 !important;
+  transform: translateX(-2px);    /* tiny nudge to align with H2s */
 }
-
-/* Fallback if you used a plain H1 (first H1 on the page) */
-.noindent .page__content h1:first-of-type {
-  font-size: 2.0rem !important;
-  line-height: 1.2 !important;
-  font-weight: 700 !important;
-}
-
