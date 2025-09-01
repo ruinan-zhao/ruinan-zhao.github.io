@@ -1,10 +1,10 @@
 ---
 layout: single
-title: ""                 # turn OFF theme-generated title/header
+title: ""
 header: false
 permalink: /research/
 author_profile: true
-classes: wide noindent    # add a helper class for clean overrides
+classes: wide noindent
 ---
 
 <h1 class="manual-title">Research</h1>
