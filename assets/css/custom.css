@@ -142,7 +142,7 @@
 .page__content h1.manual-title {
   margin: 0 0 0.75em 0 !important;
   padding: 0 !important;
-  font-size: 1.7rem !important;   /* try 2.1–2.4rem until you like it */
+  font-size: 1.6rem !important;   /* try 2.1–2.4rem until you like it */
   line-height: 1.2 !important;
   font-weight: 700 !important;
   transform: translateX(-2px);    /* tiny nudge to align with H2s */
