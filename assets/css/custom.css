@@ -118,15 +118,25 @@
   font-size: 0.8rem !important;   /* default is ~1rem */
 }
 
-/* Flush-left page titles (Research, Teaching, CV) */
-.page__header,
-.page__header .page__title {
-  margin-left: 0 !important;
-  padding-left: 0 !important;
-  border-left: none !important;
+/* Hide Minimal Mistakes' header/title block on pages using `noindent` */
+.noindent .page__header,
+.noindent .page__title {
+  display: none !important;
 }
 
-.page__header .page__title::before {
+/* Make manual titles flush-left and sized how you want */
+.noindent .page__content h1.manual-title {
+  margin: 0 0 0.75em 0 !important;
+  padding: 0 !important;
+  font-size: 1.9rem;         /* adjust size here (e.g., 1.8–2.1rem) */
+  line-height: 1.2;
+  font-weight: 700;
+}
+
+/* Kill any decorative left bars/anchors that could nudge headings */
+.noindent .page__content h1.manual-title::before,
+.noindent .page__content h2::before,
+.noindent .page__content h3::before {
   content: none !important;
   display: none !important;
 }
