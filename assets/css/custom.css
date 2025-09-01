@@ -140,7 +140,7 @@
 .noindent .page__content h1.manual-title {
   margin: 0 0 0.75em 0 !important;
   padding: 0 !important;
-  font-size: 2.2rem;     /* adjust: 1.8–2.0rem as you like */
+  font-size: 2.5rem;     /* adjust: 1.8–2.0rem as you like */
   line-height: 1.2;
   font-weight: 700;
   transform: translateX(-2px);   /* small nudge only */
