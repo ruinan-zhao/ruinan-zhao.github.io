@@ -137,15 +137,11 @@
 .noindent .page__header, 
 .noindent .page__title { display: none !important; }
 
-/* Make manual H1 flush-left; nudge to match H2 line-up */
 .noindent .page__content h1.manual-title {
   margin: 0 0 0.75em 0 !important;
   padding: 0 !important;
-  font-size: 1.9rem;     /* adjust size if you want it bigger/smaller */
+  font-size: 1.9rem;     /* adjust: 1.8–2.0rem as you like */
   line-height: 1.2;
   font-weight: 700;
-  transform: translateX(-8px);   /* <— adjust: try -6, -8, -10 until it aligns */
+  transform: translateX(-2px);   /* small nudge only */
 }
-
-/* ensure no decorative left bars/anchors add offset */
-.noindent .page__content h1.manual-title::before { content: none !important; }
