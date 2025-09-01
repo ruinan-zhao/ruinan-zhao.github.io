@@ -1,11 +1,12 @@
 ---
-title: "Research"
-permalink: /research/
 layout: single
+title: ""          # disable the theme's header title block
+header: false      # turns off the page header wrapper entirely
 author_profile: true
+classes: wide
 ---
 
-
+**Research**
 
 ## Publication
 **The Impact of Granting Undocumented Immigrants Driver’s Licenses on Fatal Crashes**  
