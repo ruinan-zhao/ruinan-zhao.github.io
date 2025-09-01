@@ -1,10 +1,13 @@
 ---
 layout: single
+title: ""               # disables the theme’s title header
+header: false           # disables the page__header wrapper
+permalink: /research/
 author_profile: true
 classes: wide
 ---
 
-# Research
+# Research   <!-- manual title, will align with content -->
 
 ## Publication
 **The Impact of Granting Undocumented Immigrants Driver’s Licenses on Fatal Crashes**  
