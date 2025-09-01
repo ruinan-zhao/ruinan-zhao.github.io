@@ -1,11 +1,13 @@
 ---
-title: "Teaching"
-permalink: /teaching/
 layout: single
+title: ""
+header: false
+permalink: /teaching/
 author_profile: true
+classes: wide noindent
 ---
 
-
+<h1 class="manual-title">Teaching</h1>
 
 ## Instructor 
 - Econ 003: Introduction to Microeconomics                             — Summer 2025  
