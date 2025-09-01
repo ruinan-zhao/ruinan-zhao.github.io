@@ -133,10 +133,19 @@
   font-weight: 700;
 }
 
-/* Kill any decorative left bars/anchors that could nudge headings */
-.noindent .page__content h1.manual-title::before,
-.noindent .page__content h2::before,
-.noindent .page__content h3::before {
-  content: none !important;
-  display: none !important;
+/* Hide theme header on pages using `noindent` */
+.noindent .page__header, 
+.noindent .page__title { display: none !important; }
+
+/* Make manual H1 flush-left; nudge to match H2 line-up */
+.noindent .page__content h1.manual-title {
+  margin: 0 0 0.75em 0 !important;
+  padding: 0 !important;
+  font-size: 1.9rem;     /* adjust size if you want it bigger/smaller */
+  line-height: 1.2;
+  font-weight: 700;
+  transform: translateX(-8px);   /* <— adjust: try -6, -8, -10 until it aligns */
 }
+
+/* ensure no decorative left bars/anchors add offset */
+.noindent .page__content h1.manual-title::before { content: none !important; }
