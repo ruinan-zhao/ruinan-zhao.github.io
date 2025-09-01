@@ -118,30 +118,15 @@
   font-size: 0.8rem !important;   /* default is ~1rem */
 }
 
-/* 1) Make the header block and content share the same left edge */
-.page .page__inner-wrap > header,
-.page .page__inner-wrap > .page__content {
-  max-width: 900px !important;    /* use your width (900–1000px) */
-  margin-left: auto !important;
-  margin-right: auto !important;
-  padding-left: 0 !important;
-  padding-right: 0 !important;
-}
-
-/* 2) Kill the decorative left bar/offset on the title itself */
-.page .page__inner-wrap > header .page__title {
-  padding-left: 0 !important;
+/* Flush-left page titles (Research, Teaching, CV) */
+.page__header,
+.page__header .page__title {
   margin-left: 0 !important;
+  padding-left: 0 !important;
   border-left: none !important;
 }
-.page .page__inner-wrap > header .page__title::before {
+
+.page__header .page__title::before {
   content: none !important;
   display: none !important;
-}
-
-/* 3) (Fallback) tiny visual nudge if your header still sits 2–4px in */
-@media (min-width: 768px) {
-  .page .page__inner-wrap > header .page__title {
-    transform: translateX(-3px);  /* adjust -1 to -5px until it lines up perfectly */
-  }
 }
