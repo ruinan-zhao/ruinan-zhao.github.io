@@ -7,7 +7,7 @@ author_profile: true
 classes: wide noindent
 ---
 
-<h1 class="manual-title">Research</h1>
+<h1 class="manual-title" style="font-size:2.3rem">Research</h1>
 
 ## Publication
 **The Impact of Granting Undocumented Immigrants Driver’s Licenses on Fatal Crashes**  
