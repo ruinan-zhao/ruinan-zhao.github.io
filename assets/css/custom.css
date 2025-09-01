@@ -118,21 +118,19 @@
   font-size: 0.8rem !important;   /* default is ~1rem */
 }
 
-/* Make page titles (Research, Teaching, CV) perfectly flush left */
-.page .page__inner-wrap .page__title,
-.page .page__inner-wrap .page__title + .page__meta {
-  margin-left: 0 !important;
+/* Force page titles (Research, Teaching, CV) to align flush with content */
+.page .page__inner-wrap {
   padding-left: 0 !important;
+  margin-left: 0 !important;
+}
+
+.page .page__title {
+  padding-left: 0 !important;
+  margin-left: 0 !important;
   border-left: none !important;
 }
 
-.page .page__inner-wrap .page__title::before {
+.page .page__title::before {
   content: none !important;
   display: none !important;
-}
-
-/* Ensure the title text itself isn't offset by the content block */
-.page .page__inner-wrap .page__content {
-  margin-left: 0 !important;
-  padding-left: 0 !important;
 }
