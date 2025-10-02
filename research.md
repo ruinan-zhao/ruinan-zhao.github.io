@@ -16,7 +16,8 @@ classes: wide noindent
 ---
 
 ## Job Market Paper
-**How Does a Four-Day School Week Affect High School Students? Evidence from Colorado** (with Meng Song)  
+**How Does a Four-Day School Week Affect High School Students? Evidence from Colorado** 
+(with Meng Song)  
 
 We examine the impact of moving to a four-day school week on high school students' outcomes using comprehensive administrative data from Colorado, the state with the highest prevalence of this schedule in the United States. Our dataset spans nearly two decades of entry cohorts and more than one million unique student records, offering an unprecedented opportunity to study the policy’s long-run effects. Leveraging quasi-random variation in adoption across districts within a difference-in-differences framework, we provide the large-scale causal evidence on how a shortened school week shapes students’ educational trajectories. In contrast to much of the existing literature, we find modest improvements in standardized test performance, lower dropout rates, and increases in both on-time and overall graduation. The timing of exposure proves important: students first experiencing the shorter week prior to high school see particularly strong gains in persistence and attainment. At the same time, heterogeneous effects suggest that disadvantaged groups may benefit less, raising concerns about widening achievement gaps. These findings challenge the common perception that a shorter school week harms student learning, showing instead that, when implemented carefully, it can enhance outcomes. Given growing policy interest in alternative calendars, this study provides timely and rigorous evidence to inform district and state decision-making.
 
