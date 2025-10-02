@@ -32,8 +32,8 @@ We examine the impact of moving to a four-day school week on high school student
 ---
 
 ## Works in Progress
-**From Prison to Employment: The Effects of P2E Program on Recidivism and Labor Market Outcomes**
+**From Prison to Employment: The Effects of P2E Program on Recidivism and Labor Market Outcomes**<br>
 (with Ozkan Eren)
 
-**Asylum-seeking Youth in U.S. Schools: Early Insights from the Buslift**
+**Asylum-seeking Youth in U.S. Schools: Early Insights from the Buslift**<br>
 (with Kevin Shih)
