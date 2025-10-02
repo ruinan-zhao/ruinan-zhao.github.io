@@ -29,6 +29,7 @@ We examine the impact of moving to a four-day school week on high school student
 **Higher Education in the Trump Era: Impacts on College Student Outcomes**  
 (with Ozkan Eren and Zhuoyu Qiu)
 
+---
 
 ## Works in Progress
 **From Prison to Employment: The Effects of P2E Program on Recidivism and Labor Market Outcomes**
