@@ -23,10 +23,10 @@ We examine the impact of moving to a four-day school week on high school student
 ---
 
 ## Working Papers
-**Faculty Gender Attitudes and Their Impact on College Students’ Academic Achievement**  
+**Faculty Gender Attitudes and Their Impact on College Students’ Academic Achievement**      
 (with Ozkan Eren and Zhuoyu Qiu)
 
-**Higher Education in the Trump Era: Impacts on College Student Outcomes**  
+**Higher Education in the Trump Era: Impacts on College Student Outcomes**        
 (with Ozkan Eren and Zhuoyu Qiu)
 
 ---
