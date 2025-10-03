@@ -10,7 +10,7 @@ classes: wide noindent
 <h1 class="manual-title">Research</h1>
 
 ## Publication
-**The Impact of Granting Undocumented Immigrants Driver’s Licenses on Fatal Crashes**  
+**[The Impact of Granting Undocumented Immigrants Driver’s Licenses on Fatal Crashes](https://doi.org/10.1002/pam.70053)**  
 *Journal of Policy Analysis and Management, Early View (2025). doi:10.1002/pam.70053*
 
 ---
