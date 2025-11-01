@@ -21,7 +21,7 @@ minimal_mistakes_skin: "default" # options: air, aqua, dark, dusk, neon, sunrise
 # Author sidebar
 author:
   name: "Ruinan Zhao"
-  avatar: "/images/headshot.jpg"
+  avatar: "profile.jpeg"
   bio: "PhD Candidate in Economics University of California, Riverside."
   location: "UC Riverside"
   links:
@@ -33,7 +33,7 @@ author:
       url: "https://github.com/ruinan-zhao"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/your-profile"
+      url: "https://www.linkedin.com/in/ruinan-zhao-b07614388"
 
 # Defaults so pages get the sidebar
 defaults:
