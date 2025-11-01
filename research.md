@@ -25,16 +25,16 @@ We examine the impact of the four-day school week on high school students’ out
 
 ## Working Papers
 **Faculty Gender Attitudes and Their Impact on College Students’ Academic Achievement**      
-(with Ozkan Eren and Zhuoyu Qiu)
+(with [Ozkan Eren](https://www.ozkaneren.com/) and Zhuoyu Qiu)
 
 **Higher Education in the Trump Era: Impacts on College Student Outcomes**        
-(with Ozkan Eren and Zhuoyu Qiu)
+(with [Ozkan Eren](https://www.ozkaneren.com/)and Zhuoyu Qiu)
 
 ---
 
 ## Works in Progress
 **From Prison to Employment: The Effects of P2E Program on Recidivism and Labor Market Outcomes**<br>
-(with Ozkan Eren)
+(with [Ozkan Eren](https://www.ozkaneren.com/))
 
 **Asylum-seeking Youth in U.S. Schools: Early Insights from the Buslift**<br>
-(with Kevin Shih)
+(with [Kevin Shih](https://kevinyshih.weebly.com/))
