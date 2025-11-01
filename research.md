@@ -28,7 +28,7 @@ We examine the impact of the four-day school week on high school students’ out
 (with [Ozkan Eren](https://www.ozkaneren.com/) and Zhuoyu Qiu)
 
 **Higher Education in the Trump Era: Impacts on College Student Outcomes**        
-(with [Ozkan Eren](https://www.ozkaneren.com/)and Zhuoyu Qiu)
+(with [Ozkan Eren](https://www.ozkaneren.com/) and Zhuoyu Qiu)
 
 ---
 
