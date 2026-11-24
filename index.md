@@ -5,13 +5,10 @@ author_profile: true
   
 Welcome!
 
-I am a Ph.D. Candidate in Economics at the University of California, Riverside.  
+I am an applied economist with a Ph.D. in Economics from the University of California, Riverside.  
 
+My research interests include labor economics, the economics of education, applied microeconomics, and public policy. 
 
-My research interests include labor economics, the economics of education, applied microeconomics, and public policy. My current research papers focus on using large-scale administrative data on students and educators to study student achievement and long-run academic outcomes.  
-
-I also work as a Research Assistant at the [Presley Center of Crime & Justice Studies](https://presleycenter.ucr.edu/).  
-
-I will be on the job market in **2025–2026**.
+My research focuses on using applied econometric methods, causal inference, and large-scale administrative data to evaluate public policies and examine their impacts on individuals, institutions, and society.
 
 <i class="fas fa-envelope"></i> Email: [ruinan.zhao@email.ucr.edu](mailto:ruinan.zhao@email.ucr.edu)
