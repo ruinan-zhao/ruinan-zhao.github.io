@@ -1,7 +1,7 @@
 title: "Ruinan Zhao"
 name: "Ruinan Zhao"
 email: "ruinan.zhao@email.ucr.edu"
-description: "Economics Ph.D. Candidate at UC Riverside — Labor, Education, Applied Micro, Public Policy."
+description: "Applied Economist specializing in Labor Economics, Economics of Education, Applied Microeconomics, and Public Policy."
 url: "https://ruinan-zhao.github.io"
 baseurl: ""
 
@@ -22,8 +22,8 @@ minimal_mistakes_skin: "default" # options: air, aqua, dark, dusk, neon, sunrise
 author:
   name: "Ruinan Zhao"
   avatar: "profile.jpeg"
-  bio: "Ph.D. Candidate in Economics University of California, Riverside."
-  location: "UC Riverside"
+  bio: "Applied Economist | Ph.D. in Economics, UC Riverside"
+  location: "Los Angeles, California"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
