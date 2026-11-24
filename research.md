@@ -22,7 +22,7 @@ classes: wide noindent
 ---
 
 **Faculty Gender Attitudes and Their Impact on College Students’ Academic Achievement**      
-(with [Radhika Bansal](https://radhika3bansal.github.io/), [Ozkan Eren](https://www.ozkaneren.com/), [Krzysztof Karbownik](https://sites.google.com/site/kkarbownik/), and[Zhuoyu Qiu](https://r-qiu.github.io/))
+(with [Radhika Bansal](https://radhika3bansal.github.io/), [Ozkan Eren](https://www.ozkaneren.com/), [Krzysztof Karbownik](https://sites.google.com/site/kkarbownik/), and [Zhuoyu Qiu](https://r-qiu.github.io/))
 
 ---
 
