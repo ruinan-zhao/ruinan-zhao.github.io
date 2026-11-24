@@ -10,7 +10,7 @@ classes: wide noindent
 <h1 class="manual-title">Teaching</h1>
 
 ## Instructor 
-- Econ 155: Women's Labor and the Economy                              - Spring 2026
+- Econ 155: Women's Labor and the Economy                              — Spring 2026
 - Econ 003: Introduction to Microeconomics                             — Summer 2025  
 - Econ 102: Intermediate Microeconomics                                — Summer 2024  
 - Econ 153: Labor Economics                                            — Summer 2023; Spring 2024  
