@@ -22,7 +22,7 @@ minimal_mistakes_skin: "default" # options: air, aqua, dark, dusk, neon, sunrise
 author:
   name: "Ruinan Zhao"
   avatar: "profile.jpeg"
-  bio: "Applied Economist | Ph.D. in Economics, UC Riverside"
+  bio: "Applied Economist<br>Ph.D. in Economics, UC Riverside"
   location: "Los Angeles, California"
   links:
     - label: "Email"
