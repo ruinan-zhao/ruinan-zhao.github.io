@@ -13,7 +13,7 @@ classes: wide noindent
 
 ## Teaching Award
 - Outstanding Teaching Award, 2023-2024
-- 
+
 ## Instructor of Record
 - Econ 155: Women's Labor and the Economy                              — Spring 2026
 - Econ 003: Introduction to Microeconomics                             — Summer 2025  
